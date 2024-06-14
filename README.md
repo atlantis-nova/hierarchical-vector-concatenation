@@ -2,7 +2,7 @@
 
 Implementation of hierarchical vector concatenation
 <br>
-Source: https://medium.com/plain-simple-software/introducing-hierarchical-topic-modeling-with-non-parametric-depth-estimation-d6fd2145f007
+Source: https://medium.com/plain-simple-software/introducing-hierarchical-vector-concatenation-hvc-c7ef9cc734d3
 
 ## Please cite
 **Algorithm:** HVC - Hierarchical Vector Concatenation
